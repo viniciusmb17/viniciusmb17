@@ -2,8 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusmbarbosa/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmb17&show_icons=true&theme=tokyonight&hide=issues,prs,contribs,stars,stats&hide_rank=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmb17&hide=java&theme=tokyonight)](https://github.com/viniciusmb17)
+![viniciusmb17's Stats](https://github-readme-stats.vercel.app/api?username=viniciusmb17&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide_rank=true)<br/>
+![viniciusmb17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=viniciusmb17&theme=tokyonight&hide_border=true)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmb17&hide=java&theme=tokyonight&hide_border=true)](https://github.com/viniciusmb17)
 
 ## Most Used Technologies
 
@@ -17,6 +18,4 @@
 </div><br/>
 
 👨‍💻 I'm currently focused on web development, with a particular interest in the React and Node stack, using Typescript to create robust and scalable applications.
-
-🔭 Looking for new opportunities.
 
