@@ -2,9 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusmbarbosa/)
 
-![viniciusmb17's Stats](https://github-readme-stats.vercel.app/api?username=viniciusmb17&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide_rank=true)<br/>
 ![viniciusmb17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=viniciusmb17&theme=tokyonight&hide_border=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmb17&hide=java&theme=tokyonight&hide_border=true)](https://github.com/viniciusmb17)
 
 ## Most Used Technologies
 
