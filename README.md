@@ -25,8 +25,8 @@ Atuo principalmente com **React**, **Node.js** e **TypeScript**, sempre buscando
 ## 📈 Indicadores e atividade
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=viniciusmb17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmb17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusmb17&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusmb17&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -35,6 +35,8 @@ Atuo principalmente com **React**, **Node.js** e **TypeScript**, sempre buscando
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=viniciusmb17&label=Visualiza%C3%A7%C3%B5es%20de%20perfil&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/viniciusmb17?label=Followers&style=flat&color=0e75b6" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/viniciusmb17?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=0e75b6" alt="Total Stars"/>
 </p>
 
 ---
