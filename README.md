@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:viniciusmbarbosa.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Contato-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Contato-E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
   </a>
 </p>
 
@@ -28,8 +28,8 @@ Atuo principalmente com **React**, **Node.js** e **TypeScript**, sempre buscando
 ## 📈 Indicadores e atividade
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusmb17&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusmb17&theme=tokyonight" alt="Top Languages"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusmb17&theme=tokyonight" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusmb17&theme=tokyonight" alt="Principais Linguagens"/>
 </p>
 
 <p align="center">
