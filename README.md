@@ -39,7 +39,7 @@ Atuo principalmente com **React**, **Node.js** e **TypeScript**, sempre buscando
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=viniciusmb17&label=Visualiza%C3%A7%C3%B5es%20de%20perfil&color=0e75b6&style=flat" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/viniciusmb17?label=Followers&style=flat&color=0e75b6" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/viniciusmb17?style=flat&color=0e75b6" alt="Total Stars"/>
+  <img src="https://img.shields.io/github/stars/viniciusmb17?affiliations=OWNER&style=flat&color=0e75b6" alt="Owned Repo Stars"/>
 </p>
 
 ---
