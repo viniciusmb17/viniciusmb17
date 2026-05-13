@@ -10,7 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=6AD3F3&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-end+e+Back-end;Foco+em+React%2C+Node.js+e+TypeScript;Criando+solu%C3%A7%C3%B5es+robustas+e+escal%C3%A1veis" alt="Typing Animation"/>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=6AD3F3&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-end+e+Back-end;Foco+em+React%2C+Node.js+e+TypeScript;Criando+solu%C3%A7%C3%B5es+robustas+e+escal%C3%A1veis"
+    alt="Typing Animation"
+  />
 </p>
 
 ---
@@ -36,7 +39,7 @@ Atuo principalmente com **React**, **Node.js** e **TypeScript**, sempre buscando
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=viniciusmb17&label=Visualiza%C3%A7%C3%B5es%20de%20perfil&color=0e75b6&style=flat" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/viniciusmb17?label=Followers&style=flat&color=0e75b6" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/viniciusmb17?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=0e75b6" alt="Total Stars"/>
+  <img src="https://img.shields.io/github/stars/viniciusmb17?style=flat&color=0e75b6" alt="Total Stars"/>
 </p>
 
 ---
